@@ -1,0 +1,22 @@
+{
+  "name": "sayhelloapi",
+  "version": "1.0.0",
+  "description": "API criada para ajudar em POC's entre Salesforce e Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorfarias/sayhelloapi.git"
+  },
+  "author": "juniorfarias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorfarias/sayhelloapi/issues"
+  },
+  "homepage": "https://github.com/juniorfarias/sayhelloapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
